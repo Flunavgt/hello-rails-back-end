@@ -111,13 +111,6 @@ run npm i
 in the terminal for the front end:
 run npm start and when asked for a new port for local host type "y"
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 
 
  -->
