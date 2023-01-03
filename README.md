@@ -122,8 +122,11 @@ git clone  https://github.com/Flunavgt/hello-rails-back-end.git
 
 run bundle install
 run npm i
+
 create application.yml under config and set Username and password for DB
+
 run rails db:create
+
 run rails s
 
 clone frontend app:
